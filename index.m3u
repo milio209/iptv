@@ -1,55 +1,6 @@
 #EXTM3U
-#EXTINF:-1,#### News CA ####
-#EXTINF:-1,CA: CBC Montreal
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/8212
-#EXTINF:-1,CA: CBC Ottawa
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/8217
-#EXTINF:-1,CA: CBC Toronto
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/8218
-#EXTINF:-1,CA: FOX NEWS
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/56573.ts
-#EXTINF:-1,CA: TVA
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/56621.ts
-#EXTINF:-1,CA: TVA Montreal (CFTM)
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/8098
-#EXTINF:-1,CA: TVA Montreal (CFTM) HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208383.ts
-#EXTINF:-1,#### CANADA ####
-#EXTINF:-1,CA: Discovery Channel (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53978
-#EXTINF:-1,CA: Discovery Science (M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/3681
-#EXTINF:-1,CA: HBO
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/11486.ts
-#EXTINF:-1,CA: HBO 2
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/56583.ts
-#EXTINF:-1,CA: FOX (720)(M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/3687
-#EXTINF:-1,CA: FOX HD
-http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/208266.ts
-#EXTINF:-1,CA: FX (1080)(M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/3688
-#EXTINF:-1,CA: FX (TV)(720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53952
-#EXTINF:-1,#### US ####
-#EXTINF:-1,US: Discovery Channel
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/31094
-#EXTINF:-1,US: Discovery Channel
-http://mynetworks.info:80/ashraf333/333ashraf/7914
-#EXTINF:-1,US: Discovery
-http://mynetworks.info:80/ashraf333/333ashraf/5703
-#EXTINF:-1,US: Discovery Channel FHD
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/86014
-#EXTINF:-1,US: Discovery Science
-http://mynetworks.info:80/ashraf333/333ashraf/5702
-#EXTINF:-1,US: Discovery Science HD
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/86055
-#EXTINF:-1,US: Discovery Science HD
-http://mynetworks.info:80/ashraf333/333ashraf/8032
-#EXTINF:-1,US: Investigation Discovery
-http://mynetworks.info:80/ashraf333/333ashraf/7942
-#EXTINF:-1,US: Investigation Discovery HD
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/86037
+#EXTINF:-1,#### MAIN ####
+channels/https://raw.githubusercontent.com/milio209/iptv/main/main-index.m3u
 #EXTINF:-1,#### SPORTS ####
 channels/https://raw.githubusercontent.com/milio209/iptv/main/sport-index.m3u
 #EXTINF:-1,#### Meat & Potatoes ####
