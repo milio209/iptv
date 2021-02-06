@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,#### MAIN ####
 channels/https://raw.githubusercontent.com/milio209/iptv/main/main-index.m3u
 #EXTINF:-1,#### SPORTS ####
 channels/https://raw.githubusercontent.com/milio209/iptv/main/sport-index.m3u
