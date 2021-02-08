@@ -1,80 +1,36 @@
 #EXTM3U
 #EXTINF:-1,BEIN ESPANIOL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1,beIN Sports 10
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14248.ts
-#EXTINF:-1,beIN Sports 11
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/37893.ts
-#EXTINF:-1,beIN Sports 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14239.ts
-#EXTINF:-1,beIN Sports 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14240.ts
-#EXTINF:-1,beIN Sports 3
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14241.ts
-#EXTINF:-1,beIN Sports 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14242.ts
-#EXTINF:-1,beIN Sports 5
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14243.ts
-#EXTINF:-1,beIN Sports 6
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14244.ts
-#EXTINF:-1,beIN Sports 7
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14245.ts
-#EXTINF:-1,beIN Sports 8
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14246.ts
-#EXTINF:-1,beIN Sports 9
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14247.ts
-#EXTINF:-1,beIN Sports En Espanyol
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14250.ts
 #EXTINF:-1,BEIN SPORTS ENG HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1,beIN Sports La Liga
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14251.ts
-#EXTINF:-1,beIN Sports USA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14238.ts
-#EXTINF:-1,ES | BEIN LaLiga 1 (Backup)
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30642.ts
-#EXTINF:-1,ES | BEIN LALIGA 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30645.ts
-#EXTINF:-1,ES | BEIN LALIGA 3 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30644.ts
-#EXTINF:-1,ES: beIN Sports HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215328.ts
-#EXTINF:-1,ES: beIN Sports LaLiga HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215329.ts
-#EXTINF:-1,ES: beIN Sports Ñ HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215330.ts
-#EXTINF:-1,ES | La Liga TV Bar 2
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30614.ts
-#EXTINF:-1,ES | La Liga TV Bar 4
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30616.ts
-#EXTINF:-1,ES | La Liga TV Bar (Backup)
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30613.ts
-#EXTINF:-1,ES | La Ligatv bar FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30611.ts
-#EXTINF:-1,ES | La Ligatv bar
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30612.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30630.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30628.ts
-#EXTINF:-1,ES | M.LIGA CAMPEONES
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30629.ts
-#EXTINF:-1,ES | Movistar LALIGA 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30643.ts
+#EXTINF:-1,ES: LA LIGA 1
+http://newlook.to:80/amy3_ce2307/749558/134907
+#EXTINF:-1,ES: la liga BAR HD
+http://newlook.to:80/amy3_ce2307/749558/134906
 #EXTINF:-1,(ES) Movistar LaLiga 4K+
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16510
-#EXTINF:-1,ES | Movistar LALIGA FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30640.ts
-#EXTINF:-1,ES | Movistar LALIGA
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30641.ts
 #EXTINF:-1,(ES) Movistar Liga de Campeones 4K+
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16512
 #EXTINF:-1,ESP: LA LIGA TV BAR
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55409
-#EXTINF:-1,La Liga123 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214696.ts
-#EXTINF:-1,Liga123 HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/214699.ts
+#EXTINF:-1,LA LIGATV BAR 1 FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48747
+#EXTINF:-1,Liga123 FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48769
+#EXTINF:-1,Liga123 SD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48773
+#EXTINF:-1,Liga Campeones 1 ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48757
+#EXTINF:-1,Liga Campeones 1 HD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48756
+#EXTINF:-1,Liga Campeones ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48767
+#EXTINF:-1,Liga Campeones FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48766
+#EXTINF:-1,Liga TV FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48768
+#EXTINF:-1,Movistar Liga De Campeon 1 ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48917
 #EXTINF:-1,(SP-4K) M.LCAMPEONES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1860
 #EXTINF:-1,|SP| BEIN LALIGA1 HD
@@ -88,35 +44,19 @@ http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79306
 #EXTINF:-1,|SP| BEIN LALIGA HD
 http://rv.therevenge.co:80/5172668317/7249490798/79306
 #EXTINF:-1,|SP|HEVC| BEIN LALIGA1 HD
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79185
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA1 HD
 http://rv.therevenge.co:80/5172668317/7249490798/79185
-#EXTINF:-1,|SP|HEVC| BEIN LALIGA HD
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79186
 #EXTINF:-1,|SP|HEVC| BEIN LALIGA HD
 http://rv.therevenge.co:80/5172668317/7249490798/79186
 #EXTINF:-1,|SP|HEVC| LALIGA TV BAR 1
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79187
-#EXTINF:-1,|SP|HEVC| LALIGA TV BAR 1
 http://rv.therevenge.co:80/5172668317/7249490798/79187
-#EXTINF:-1,|SP|HEVC| LALIGA TV BAR
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79188
 #EXTINF:-1,|SP|HEVC| LALIGA TV BAR
 http://rv.therevenge.co:80/5172668317/7249490798/79188
 #EXTINF:-1,|SP|HEVC| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79171
-#EXTINF:-1,|SP|HEVC| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
 http://rv.therevenge.co:80/5172668317/7249490798/79171
-#EXTINF:-1,|SP|HEVC| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79170
 #EXTINF:-1,|SP|HEVC| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
 http://rv.therevenge.co:80/5172668317/7249490798/79170
 #EXTINF:-1,|SP|HEVC| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79169
-#EXTINF:-1,|SP|HEVC| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
 http://rv.therevenge.co:80/5172668317/7249490798/79169
-#EXTINF:-1,|SP|HEVC| M.LCAMPEONES
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79189
 #EXTINF:-1,|SP|HEVC| M.LCAMPEONES
 http://rv.therevenge.co:80/5172668317/7249490798/79189
 #EXTINF:-1,|SP| LALIGA TV BAR 1
@@ -155,8 +95,6 @@ http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78891
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78766
 #EXTINF:-1,UK: BEIN SPORTS 11
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78767
-#EXTINF:-1,UK: beIN Sports 12 | HD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/14249.ts
 #EXTINF:-1,UK: BEIN SPORTS 12
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78768
 #EXTINF:-1,UK: beIN Sports 1
@@ -227,3 +165,5 @@ http://mynetworks.info:80/ashraf333/333ashraf/8028
 http://mynetworks.info:80/ashraf333/333ashraf/5736
 #EXTINF:-1,|USA| BEIN SPORT USA
 http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/80939
+#EXTINF:-1,US: beIN SPORTS HD
+http://newlook.to:80/amy3_ce2307/749558/114175

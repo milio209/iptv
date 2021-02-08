@@ -1,16 +1,14 @@
 #EXTM3U
+#EXTINF:-1,ES: Moviestar Formula 1
+http://newlook.to:80/amy3_ce2307/749558/134872
+#EXTINF:-1,Movistar Formula FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48918
+#EXTINF:-1,Movistar Formula 1 UHD 4K ES  [Only On 4K Devices]
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/87091
 #EXTINF:-1,|SP| M.FORMULA1 HD
 http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79297
 #EXTINF:-1,|SP| M. FORMULA1 HD
 http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79296
-#EXTINF:-1,|SP|HEVC| M.FORMULA1 HD
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79177
-#EXTINF:-1,|SP|HEVC| M.FORMULA1
-http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/79176
-#EXTINF:-1,ES | Movistar FORMULA 1 FHD
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30624.ts
-#EXTINF:-1,ES | Movistar FORMULA 1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/30625.ts
 #EXTINF:-1,[SP] FORMULA1_HD
 http://mynetworks.info:80/ashraf333/333ashraf/2174
 #EXTINF:-1,(SP-4K) M.FORMULA1 HD
@@ -27,10 +25,68 @@ http://rv.therevenge.co:80/5172668317/7249490798/79177
 http://rv.therevenge.co:80/5172668317/7249490798/79176
 #EXTINF:-1,FORMULA 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1,Sky Sport F1 SuperHD
+http://newlook.to:80/amy3_ce2307/749558/179
+#EXTINF:-1,Sky Sport F1 HD
+http://newlook.to:80/amy3_ce2307/749558/181
+#EXTINF:-1,Sky Sport F1 SD (DSL LENTE)
+http://newlook.to:80/amy3_ce2307/749558/180
+#EXTINF:-1,F1 CAR ALBON
+http://newlook.to:80/amy3_ce2307/749558/133825
+#EXTINF:-1,F1 CAR BOTTAS
+http://newlook.to:80/amy3_ce2307/749558/133813
+#EXTINF:-1,F1 CAR GASLY
+http://newlook.to:80/amy3_ce2307/749558/133818
+#EXTINF:-1,F1 CAR GIOVINAZZI
+http://newlook.to:80/amy3_ce2307/749558/133817
+#EXTINF:-1,F1 CAR GROSJEAN
+http://newlook.to:80/amy3_ce2307/749558/133816
+#EXTINF:-1,F1 CAR HAMILTON
+http://newlook.to:80/amy3_ce2307/749558/133812
+#EXTINF:-1,F1 CAR HULKENBERG
+http://newlook.to:80/amy3_ce2307/749558/133820
+#EXTINF:-1,F1 CAR KUBICA
+http://newlook.to:80/amy3_ce2307/749558/133828
+#EXTINF:-1,F1 CAR KVYAT
+http://newlook.to:80/amy3_ce2307/749558/133824
+#EXTINF:-1,F1 CAR LECLERC
+http://newlook.to:80/amy3_ce2307/749558/133821
+#EXTINF:-1,F1 CAR MAGNUSSEN
+http://newlook.to:80/amy3_ce2307/749558/133823
+#EXTINF:-1,F1 CAR NORRIS
+http://newlook.to:80/amy3_ce2307/749558/133814
+#EXTINF:-1,F1 CAR PEREZ
+http://newlook.to:80/amy3_ce2307/749558/133819
+#EXTINF:-1,F1 CAR RAIKKONEN
+http://newlook.to:80/amy3_ce2307/749558/133811
+#EXTINF:-1,F1 CAR RICCIARDO
+http://newlook.to:80/amy3_ce2307/749558/133815
+#EXTINF:-1,F1 CAR RUSSEL
+http://newlook.to:80/amy3_ce2307/749558/133826
+#EXTINF:-1,F1 CAR SAINZ
+http://newlook.to:80/amy3_ce2307/749558/133829
+#EXTINF:-1,F1 CAR STROLL
+http://newlook.to:80/amy3_ce2307/749558/133822
+#EXTINF:-1,F1 CAR VERSTAPPEN
+http://newlook.to:80/amy3_ce2307/749558/133827
+#EXTINF:-1,F1 CAR VETTEL
+http://newlook.to:80/amy3_ce2307/749558/133810
+#EXTINF:-1,F1 DATA CHANNEL
+http://newlook.to:80/amy3_ce2307/749558/133830
+#EXTINF:-1,F1 TV DRIVER TRACKER
+http://newlook.to:80/amy3_ce2307/749558/133809
+#EXTINF:-1,F1 TV GERMANY
+http://newlook.to:80/amy3_ce2307/749558/133806
+#EXTINF:-1,F1 TV MAIN ENGLISH
+http://newlook.to:80/amy3_ce2307/749558/133804
+#EXTINF:-1,F1 TV MAIN FRANCE
+http://newlook.to:80/amy3_ce2307/749558/133805
+#EXTINF:-1,F1 TV PIT LANE
+http://newlook.to:80/amy3_ce2307/749558/133808
+#EXTINF:-1,F1 TV SPANISH
+http://newlook.to:80/amy3_ce2307/749558/133807
 #EXTINF:-1,IT: SKY Sport F1 HD
 http://185.71.64.167:80/lqMyQ8APQi/CsyapqxrXw/161920
-#EXTINF:-1,IT: Sky Sport F1 FHD
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/40037
 #EXTINF:-1,Sky Sport F1 HD
 http://china.iptvlogin.com:80/live/greenpoison8/h8BuvBNenS/53750.ts
 #EXTINF:-1,Sky Sport F1 (Backup)
@@ -51,14 +107,18 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/6901
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/31015
 #EXTINF:-1,IT: SKY Sport F1 HD
 http://185.71.64.167:80/307216011114/307216011114/157014
+#EXTINF:-1,ES: Movistar F1
+http://newlook.to:80/amy3_ce2307/749558/134888
+#EXTINF:-1,Movistar F1 FHD ES
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/48807
 #EXTINF:-1,(ES) Movistar F1 4K+
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/16507
 #EXTINF:-1,ESP: MOVISTAR F1 FHD
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55415
 #EXTINF:-1,ESP: MOVISTAR F1
 http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/55416
-#EXTINF:-1,SKY SPORTS F1
-http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/27094.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://newlook.to:80/amy3_ce2307/749558/114365
 #EXTINF:-1,(UK-HD) SKY SPORTS F1
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4902
 #EXTINF:-1,(UK-4K) SKY SPORTS F1
