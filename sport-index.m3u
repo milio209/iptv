@@ -1,62 +1,78 @@
 #EXTM3U
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2365
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2366
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2367
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2368
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2369
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2370
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2371
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2372
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2373
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2374
-#EXTINF:-1,AR: ABU DHABI SPORTS 1 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2375
-#EXTINF:-1,AR: ABU DHABI SPORTS 2 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/2376
-#EXTINF:-1,TR: bEIN SPORTS 1 HD++
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17604
-#EXTINF:-1,TR: bEIN SPORT 1 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17605
-#EXTINF:-1,TR: bEIN SPORT 1 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17606
-#EXTINF:-1,TR: bEIN SPORT 1 HD*
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17607
-#EXTINF:-1,TR: bEIN SPORTS 1 SD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17608
-#EXTINF:-1,TR: bEIN SPORTS 2 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17609
-#EXTINF:-1,TR: BeIN SPORTS 2 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17610
-#EXTINF:-1,TR: bEIN SPORTS 3 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17611
-#EXTINF:-1,TR: bEIN SPORTS 4 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17612
-#EXTINF:-1,TR: bEiN SPORTS 1 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17613
-#EXTINF:-1,TR: bEiN SPORTS 2 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17614
-#EXTINF:-1,TR: bEiN SPORTS 3 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17615
-#EXTINF:-1,TR: bEiN SPORTS 4 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17616
-#EXTINF:-1,TR: bEIN SPORTS MAX 1 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17617
-#EXTINF:-1,TR: bEiN SPORTS MAX 1 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17618
-#EXTINF:-1,TR: bEIN SPORTS MAX 2 HD+
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17619
-#EXTINF:-1,TR: bEiN SPORTS MAX 2 HD
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17620
+#EXTINF:-1,|BN| BEIN SPORT  1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/4466.ts
+#EXTINF:-1,|AR| BEIN SPORT  9 FHD
+http://starshare.live:8080/live/0987654321/1234567890/4467.ts
+#EXTINF:-1,|AR| BEIN SPORT  1 HD
+http://starshare.live:8080/live/0987654321/1234567890/4468.ts
+#EXTINF:-1,|AR| BEIN SPORT  2 HD
+http://starshare.live:8080/live/0987654321/1234567890/4469.ts
+#EXTINF:-1,|AR| BEIN SPORT 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/4470.ts
+#EXTINF:-1,|AR| BEIN SPORT 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/4471.ts
+#EXTINF:-1,|AR| BEIN SPORT 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/4472.ts
+#EXTINF:-1,|AR| BEIN SPORT 6 HD
+http://starshare.live:8080/live/0987654321/1234567890/4473.ts
+#EXTINF:-1,|AR| BEIN SPORT 8 HD
+http://starshare.live:8080/live/0987654321/1234567890/4474.ts
+#EXTINF:-1,|AR| BEIN SPORT 9 HD
+http://starshare.live:8080/live/0987654321/1234567890/4475.ts
+#EXTINF:-1,|AR| BEIN SPORT 10 HD
+http://starshare.live:8080/live/0987654321/1234567890/4476.ts
+#EXTINF:-1,|AR| BEIN SPORT  2-SD
+http://starshare.live:8080/live/0987654321/1234567890/4477.ts
+#EXTINF:-1,|AR| BEIN SPORT 5-SD
+http://starshare.live:8080/live/0987654321/1234567890/4478.ts
+#EXTINF:-1,|AR| BEIN SPORT 10-SD
+http://starshare.live:8080/live/0987654321/1234567890/4479.ts
+#EXTINF:-1,NL : FOX SPORTS 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/503.ts
+#EXTINF:-1,NL : FOX SPORTS 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/504.ts
+#EXTINF:-1,NL : FOX SPORTS 3 HD
+http://starshare.live:8080/live/0987654321/1234567890/505.ts
+#EXTINF:-1,NL : FOX SPORTS 4 HD
+http://starshare.live:8080/live/0987654321/1234567890/506.ts
+#EXTINF:-1,NL : FOX SPORTS 5 HD
+http://starshare.live:8080/live/0987654321/1234567890/507.ts
+#EXTINF:-1,NL : FOX SPORTS 6 HD
+http://starshare.live:8080/live/0987654321/1234567890/508.ts
+#EXTINF:-1,NL : EUROSPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/509.ts
+#EXTINF:-1,NL : EUROSPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/510.ts
+#EXTINF:-1,NL : ZIGGO SPORT VOETBAL HD
+http://starshare.live:8080/live/0987654321/1234567890/511.ts
+#EXTINF:-1,NL : ZIGGO SPORT SELECT HD
+http://starshare.live:8080/live/0987654321/1234567890/512.ts
+#EXTINF:-1,NL : ZIGGO SPORT GOLF HD
+http://starshare.live:8080/live/0987654321/1234567890/513.ts
+#EXTINF:-1,NL : ZIGGO SPORT 1 RACING HD
+http://starshare.live:8080/live/0987654321/1234567890/514.ts
+#EXTINF:-1,DSTV: SuperSport  LaLiga HD
+http://starshare.live:8080/live/0987654321/1234567890/515.ts
+#EXTINF:-1,DSTV: SuperSport Cricket HD
+http://starshare.live:8080/live/0987654321/1234567890/516.ts
+#EXTINF:-1,DSTV : SuperSport PSL HD
+http://starshare.live:8080/live/0987654321/1234567890/517.ts
+#EXTINF:-1,DSTV : SuperSport Premier League HD
+http://starshare.live:8080/live/0987654321/1234567890/518.ts
+#EXTINF:-1,DSTV : SuperSport Grandstand HD
+http://starshare.live:8080/live/0987654321/1234567890/519.ts
+#EXTINF:-1,DSTV : SuperSport Variety 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/520.ts
+#EXTINF:-1,DSTV : SuperSport Action HD
+http://starshare.live:8080/live/0987654321/1234567890/521.ts
+#EXTINF:-1,DSTV : SuperSport Variety 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/522.ts
+#EXTINF:-1,DSTV : SuperSport Football HD
+http://starshare.live:8080/live/0987654321/1234567890/523.ts
+#EXTINF:-1,DSTV : SuperSport Rugby HD
+http://starshare.live:8080/live/0987654321/1234567890/524.ts
+#EXTINF:-1,DSTV : SuperSport Golf HD
+http://starshare.live:8080/live/0987654321/1234567890/525.ts
 #EXTINF:-1,AR: beIN Sports 1 FHD
 http://newlook.to:80/amy3_ce2307/749558/115028
 #EXTINF:-1,AR: beIN Sports 1 HD
