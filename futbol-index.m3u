@@ -1,24 +1,28 @@
 #EXTM3U
-#EXTINF:-1,ES: Beinsport ñ
-http://hd.waldi2017.com:2082/110023041214988/81515121/42378
-#EXTINF:-1,ES: Laliga Tv BAR
-http://hd.waldi2017.com:2082/110023041214988/81515121/8891
-#EXTINF:-1,ES: Liga campeones FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/10022
-#EXTINF:-1,ES: Liga campeones HD
-http://hd.waldi2017.com:2082/110023041214988/81515121/8897
-#EXTINF:-1,ES: M+ LALIGA FHD
-http://hd.waldi2017.com:2082/110023041214988/81515121/42323
-#EXTINF:-1,ES: M+ LIGA 1 HD
-http://hd.waldi2017.com:2082/110023041214988/81515121/42324
-#EXTINF:-1,ES: M+ LIGA CAMPEONES HD (NODO 1)
-http://hd.waldi2017.com:2082/110023041214988/81515121/42327
-#EXTINF:-1,ES: Moviestar liga HD
-http://hd.waldi2017.com:2082/110023041214988/81515121/4083
-#EXTINF:-1,GB : LA LIGA TV
-http://mags.vip:2086/live/jav/jav123/99199.ts
-#EXTINF:-1,(SP-4K) M.LCAMPEONES
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1860
+#EXTINF:-1,ES: Bein LaLiga bar FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48445
+#EXTINF:-1,ES: Bein Sports España FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/48447
+#EXTINF:-1,ES: Bein Sports España HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1210
+#EXTINF:-1,ES: CANAL+ Liga
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/171850
+#EXTINF:-1,ES: LaLiga TV
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/275791
+#EXTINF:-1,ES: LIGA TV BAR FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/348
+#EXTINF:-1,ES: MOVISTAR LaLiga 2 FHD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/5311
+#EXTINF:-1,ES: MOVISTAR LaLiga FHD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/1141
+#EXTINF:-1,ES: Movistar La Liga FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/2010
+#EXTINF:-1,ES: MOVISTAR LCAMPEON HD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/37663
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/148654
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES FHD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/2800
 #EXTINF:-1,|SP| BEIN LALIGA1 HD
 http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/79305
 #EXTINF:-1,|SP| BEIN LALIGA HD
@@ -51,49 +55,13 @@ http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/79290
 http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/79289
 #EXTINF:-1,|SP| M.LCAMPEONES
 http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/79309
-#EXTINF:-1,(UK-HD) BEIN SPORT HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4929
-#EXTINF:-1,(UK-HD) BEIN SPORT NEWS HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4927
-#EXTINF:-1,(UK-HD) BEIN SPORTS 10 HD OLYMPIC
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4917
-#EXTINF:-1,(UK-HD) BEIN SPORTS 11 HD EN
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4916
-#EXTINF:-1,(UK-HD) BEIN SPORTS 12 HD EN
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4915
-#EXTINF:-1,(UK-HD) BEIN SPORTS 13 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4914
-#EXTINF:-1,(UK-HD) BEIN SPORTS 14 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4913
-#EXTINF:-1,(UK-HD) BEIN SPORTS 15 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4912
-#EXTINF:-1,(UK-HD) BEIN SPORTS 16 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4911
-#EXTINF:-1,(UK-HD) BEIN SPORTS 1 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4926
-#EXTINF:-1,(UK-HD) BEIN SPORTS 2 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4925
-#EXTINF:-1,(UK-HD) BEIN SPORTS 3 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4924
-#EXTINF:-1,(UK-HD) BEIN SPORTS 4 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4923
-#EXTINF:-1,(UK-HD) BEIN SPORTS 5 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4922
-#EXTINF:-1,(UK-HD) BEIN SPORTS 6 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4921
-#EXTINF:-1,(UK-HD) BEIN SPORTS 7 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4920
-#EXTINF:-1,(UK-HD) BEIN SPORTS 8 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4919
-#EXTINF:-1,(UK-HD) BEIN SPORTS 9 HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4918
-#EXTINF:-1,(UK-HD) BEIN SPORTS NBA HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4928
+#EXTINF:-1,UK: beIN Sports 10 HD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/276875
+#EXTINF:-1,UK: beIN Sports 11 HD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/192635
+#EXTINF:-1,UK: beIN Sports 12 HD
+http://iptvtree.net:8080/HoungIPTV2021/4h7wNAaEYUjAFPTh/157396
+#EXTINF:-1,UK_La_Liga_Tv_FHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52816
 #EXTINF:-1,USA: BEIN Sports HD
-http://attacktv.ddns.net:2052/0110/0110/55001
-#EXTINF:-1,USA: Bein Sports
-http://hd.waldi2017.com:2082/110023041214988/81515121/78114
-#EXTINF:-1,|USA| BEIN SPORT USA
-http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/80939
-#EXTINF:-1,[US]Bein_Sports_HD
-http://mhiptv.com:8888/Shehata123/S8855865588/5007
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3587
