@@ -1,27 +1,35 @@
 #EXTM3U
-#EXTINF:-1,ES: MOVISTAR F1 FHD
-http://51.91.73.99:25461/spain/XDWu1KatRP/21756
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 SD
-http://cloud.tvtype.xyz:80/jose1234/jose1234/165257
-#EXTINF:-1,ES: DAZN F1
-http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/3598
-#EXTINF:-1,ES: DAZN F1 1 HD
-http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12564
-#EXTINF:-1,Sky Sports F1 FHD
-http://ztvuk.com:8080/sohail/sohail123/20250
-#EXTINF:-1,Sky Sports F1 HD
-http://ztvuk.com:8080/sohail/sohail123/12145
-#EXTINF:-1,UK | Sky Sports F1
-http://directtv1.xyz:80/18501/18501/194397
-#EXTINF:-1,UK | Sky Sports F1 SD (back up)
-http://directtv1.xyz:80/18501/18501/194422
-#EXTINF:-1,UK | Sky Sports F1 HD (back up)
-http://directtv1.xyz:80/18501/18501/194423
-#EXTINF:-1,UK | sky sports f1 HD
-http://pprotv.net:80/887766/887766/60642
-#EXTINF:-1,UK | Sky Sports F1 FHD
-http://pprotv.net:80/887766/887766/60693
+#EXTINF:-1,ES| MOVISTAR FORMULA 1 FHD
+http://eno.iptvboss.net:80/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/3905
+--
+#EXTINF:-1,ES: FORMULA 1 HD
+http://pascaltv.site:8080/F12611/b199b47b/8087
+#EXTINF:-1,ES: MOVISTAR FORMULA1 FHD
+http://pascaltv.site:8080/F12611/b199b47b/90748
+#EXTINF:-1,ES | Movistar FORMULA 1 FHD
+http://oqab.life:8080/live/kk1/kk1/1727.ts
+#EXTINF:-1,ES | Movistar FORMULA 1
+http://oqab.life:8080/live/kk1/kk1/1728.ts
+#EXTINF:-1,ES: DAZN F1 FHD
+http://pascaltv.site:8080/F12611/b199b47b/278382
+#EXTINF:-1,ES| DAZNT  FORMULA 1 FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/21015
+#EXTINF:-1,ES| DAZNT FORMULA 1
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/2598
+#EXTINF:-1,ES| DAZNT  FORMULA 1 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/21015
+#EXTINF:-1,ES| DAZNT FORMULA 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2598
+--
+#EXTINF:-1,UK| SKY SPORTS F1 FHD
+http://premiumking.webhop.net:2103/bAkctZWb/hBU30fgg/666
 #EXTINF:-1,Sky Sports F1
-http://sofadad.co.uk:80/Faz/Faz1/13
+http://sofadad.co.uk:80/ibrar123/ibrar123/13
 #EXTINF:-1,Sky Sports F1 HD
-http://sofadad.co.uk:80/Faz/Faz1/6364
+http://sofadad.co.uk:80/ibrar123/ibrar123/6364
+#EXTINF:-1,UK: Sky-Sports-F1
+http://starshare.live:8080/live/449988/449988/20.ts
+#EXTINF:-1,UK:Sky-Sports-F1
+http://starshare.live:8080/live/449988/449988/270.ts
+#EXTINF:-1,UK: Sky Sports F1 (FHD)
+http://starshare.live:8080/live/449988/449988/23340.ts
