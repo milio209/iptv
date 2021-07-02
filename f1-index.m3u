@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1,ES: M. Dazn F1 SD
+#EXTINF:0,ES: M. Dazn F1 SD
 http://hulkbuster.uk:80/rocky/rocky/657882
-#EXTINF:-1,ES: M. Dazn F1 HD (720P)
+#EXTINF:0,ES: M. Dazn F1 HD (720P)
 http://hulkbuster.uk:80/rocky/rocky/657883
-#EXTINF:-1,ES: M. Dazn F1 FHD (HEVC)
+#EXTINF:0,ES: M. Dazn F1 FHD (HEVC)
 http://hulkbuster.uk:80/rocky/rocky/657452
-#EXTINF:-1,ES: M. Dazn F1 HD (1080P)
+#EXTINF:0,ES: M. Dazn F1 HD (1080P)
 http://hulkbuster.uk:80/rocky/rocky/657884
-#EXTINF:-1,ES: M. Dazn F1 4K
+#EXTINF:0,ES: M. Dazn F1 4K
 http://hulkbuster.uk:80/rocky/rocky/657433
-#EXTINF:-1,ES: M. Dazn F1 FHD (H.265)
+#EXTINF:0,ES: M. Dazn F1 FHD (H.265)
 http://hulkbuster.uk:80/rocky/rocky/657886
-#EXTINF:-1,ES: M. Dazn F1 FHD (Multi-Audio)
+#EXTINF:0,ES: M. Dazn F1 FHD (Multi-Audio)
 http://hulkbuster.uk:80/rocky/rocky/657885
-#EXTINF:-1,ES: MOVISTAR F1 FHD
+#EXTINF:0,ES: MOVISTAR F1 FHD
 http://oqab.life:8080/live/474747/474747/440.ts
-#EXTINF:-1,ES: MOVISTAR F1 HD
+#EXTINF:0,ES: MOVISTAR F1 HD
 http://ultimateiptv.me:8080/amira/amira123/3147
-#EXTINF:-1,UK: SKY SPORTS F1.1
+#EXTINF:0,UK: SKY SPORTS F1.1
 http://oqab.life:8080/live/474747/474747/129.ts
-#EXTINF:-1,UK: SKY SPORTS F1.2
+#EXTINF:0,UK: SKY SPORTS F1.2
 http://oqab.life:8080/live/474747/474747/155.ts
-#EXTINF:-1,GB: SKY SPORTS F1.3
+#EXTINF:0,GB: SKY SPORTS F1.3
 http://mains.services:2086/live/mikekoot/1757909/67056.ts
-#EXTINF:-1,UK: SKY SPORTS F1.4
+#EXTINF:0,UK: SKY SPORTS F1.4
 http://starshare.live:8080/live/449988/449988/20.ts
-#EXTINF:-1,UK: SKY SPORTS F1.5
+#EXTINF:0,UK: SKY SPORTS F1.5
 http://starshare.live:8080/live/449988/449988/270.ts
-#EXTINF:-1,UK: Sky SPORTS F1 (FHD)
+#EXTINF:0,UK: Sky SPORTS F1 (FHD)
 http://starshare.live:8080/live/449988/449988/23340.ts
-#EXTINF:-1,Sky Sports F1
+#EXTINF:0,Sky Sports F1
 http://sofadad.co.uk:80/ibrar123/ibrar123/13
-#EXTINF:-1,Sky Sports F1 HD
+#EXTINF:0,Sky Sports F1 HD
 http://sofadad.co.uk:80/ibrar123/ibrar123/6364
